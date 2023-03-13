@@ -1,5 +1,5 @@
 {
-  "Host": "",
+  "Host": "24.20.174.212",
   "Port": 8880,
   "TerritoryURL": "http://localhost:8881/territoryTiles/",
   "StaticDir": "./www",
