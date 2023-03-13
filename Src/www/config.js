@@ -1,5 +1,5 @@
 const config = {
-  EnableTerritory: false,
+  EnableTerritory: true,
   EnableColonies: true,
   ServersX: 11,
   ServersY: 11,
