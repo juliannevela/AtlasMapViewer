@@ -1,7 +1,7 @@
 {
-  "Host": "https://atlas-territory-map-juliannevela.vercel.app/",
+  "Host": "",
   "Port": 8880,
-  "TerritoryURL": "https://atlas-territory-map-juliannevela.vercel.app/territoryTiles/",
+  "TerritoryURL": "http://localhost:8881/territoryTiles/",
   "StaticDir": "./www",
   "DisableCommands": true,
   "ColonyFetchRateInSeconds": 900,
